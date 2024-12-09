@@ -1,0 +1,162 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch2DArray",
+            "request": "launch",
+            "mainClass": "BinarySearch2DArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "HackerRank",
+            "request": "launch",
+            "mainClass": "HackerRank",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode",
+            "request": "launch",
+            "mainClass": "Leetcode",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "OOPS1",
+            "request": "launch",
+            "mainClass": "OOPS1",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "PatternPrinting",
+            "request": "launch",
+            "mainClass": "PatternPrinting",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Revision",
+            "request": "launch",
+            "mainClass": "Revision",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Typecating",
+            "request": "launch",
+            "mainClass": "Typecating",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "Varargs",
+            "request": "launch",
+            "mainClass": "Varargs",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "arrayList",
+            "request": "launch",
+            "mainClass": "arrayList",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "arraysRevision",
+            "request": "launch",
+            "mainClass": "arraysRevision",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "gfg",
+            "request": "launch",
+            "mainClass": "gfg",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "javaString",
+            "request": "launch",
+            "mainClass": "javaString",
+            "projectName": "java_5ef2cad8"
+        },
+        {
+            "type": "java",
+            "name": "stringObject",
+            "request": "launch",
+            "mainClass": "stringObject",
+            "projectName": "java_5ef2cad8"
+        }
+    ]
+}
